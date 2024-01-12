@@ -1,0 +1,182 @@
+,home_team,away_team,match_date
+0,Burnley FC,Luton Town FC,2024-01-12T19:45:00Z
+1,Chelsea FC,Fulham FC,2024-01-13T12:30:00Z
+2,Newcastle United FC,Manchester City FC,2024-01-13T17:30:00Z
+3,Everton FC,Aston Villa FC,2024-01-14T14:00:00Z
+4,Manchester United FC,Tottenham Hotspur FC,2024-01-14T16:30:00Z
+5,Arsenal FC,Crystal Palace FC,2024-01-20T12:30:00Z
+6,Brentford FC,Nottingham Forest FC,2024-01-20T17:30:00Z
+7,Sheffield United FC,West Ham United FC,2024-01-21T14:00:00Z
+8,AFC Bournemouth,Liverpool FC,2024-01-21T16:30:00Z
+9,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2024-01-22T19:45:00Z
+10,Nottingham Forest FC,Arsenal FC,2024-01-30T19:30:00Z
+11,Luton Town FC,Brighton & Hove Albion FC,2024-01-30T19:45:00Z
+12,Fulham FC,Everton FC,2024-01-30T19:45:00Z
+13,Crystal Palace FC,Sheffield United FC,2024-01-30T20:00:00Z
+14,Aston Villa FC,Newcastle United FC,2024-01-30T20:15:00Z
+15,Tottenham Hotspur FC,Brentford FC,2024-01-31T19:30:00Z
+16,Manchester City FC,Burnley FC,2024-01-31T19:30:00Z
+17,Liverpool FC,Chelsea FC,2024-01-31T20:15:00Z
+18,West Ham United FC,AFC Bournemouth,2024-02-01T19:30:00Z
+19,Wolverhampton Wanderers FC,Manchester United FC,2024-02-01T20:15:00Z
+20,Everton FC,Tottenham Hotspur FC,2024-02-03T12:30:00Z
+21,Brighton & Hove Albion FC,Crystal Palace FC,2024-02-03T15:00:00Z
+22,Burnley FC,Fulham FC,2024-02-03T15:00:00Z
+23,Newcastle United FC,Luton Town FC,2024-02-03T15:00:00Z
+24,Sheffield United FC,Aston Villa FC,2024-02-03T17:30:00Z
+25,AFC Bournemouth,Nottingham Forest FC,2024-02-04T14:00:00Z
+26,Chelsea FC,Wolverhampton Wanderers FC,2024-02-04T14:00:00Z
+27,Manchester United FC,West Ham United FC,2024-02-04T14:00:00Z
+28,Arsenal FC,Liverpool FC,2024-02-04T16:30:00Z
+29,Brentford FC,Manchester City FC,2024-02-05T20:00:00Z
+30,Manchester City FC,Everton FC,2024-02-10T12:30:00Z
+31,Fulham FC,AFC Bournemouth,2024-02-10T15:00:00Z
+32,Liverpool FC,Burnley FC,2024-02-10T15:00:00Z
+33,Luton Town FC,Sheffield United FC,2024-02-10T15:00:00Z
+34,Tottenham Hotspur FC,Brighton & Hove Albion FC,2024-02-10T15:00:00Z
+35,Wolverhampton Wanderers FC,Brentford FC,2024-02-10T15:00:00Z
+36,Nottingham Forest FC,Newcastle United FC,2024-02-10T17:30:00Z
+37,West Ham United FC,Arsenal FC,2024-02-11T14:00:00Z
+38,Aston Villa FC,Manchester United FC,2024-02-11T16:30:00Z
+39,Crystal Palace FC,Chelsea FC,2024-02-12T20:00:00Z
+40,Brentford FC,Liverpool FC,2024-02-17T12:30:00Z
+41,Burnley FC,Arsenal FC,2024-02-17T15:00:00Z
+42,Fulham FC,Aston Villa FC,2024-02-17T15:00:00Z
+43,Newcastle United FC,AFC Bournemouth,2024-02-17T15:00:00Z
+44,Nottingham Forest FC,West Ham United FC,2024-02-17T15:00:00Z
+45,Tottenham Hotspur FC,Wolverhampton Wanderers FC,2024-02-17T15:00:00Z
+46,Manchester City FC,Chelsea FC,2024-02-17T17:30:00Z
+47,Sheffield United FC,Brighton & Hove Albion FC,2024-02-18T14:00:00Z
+48,Luton Town FC,Manchester United FC,2024-02-18T16:30:00Z
+49,Everton FC,Crystal Palace FC,2024-02-19T20:00:00Z
+50,Chelsea FC,Tottenham Hotspur FC,2024-02-23T20:00:00Z
+51,Aston Villa FC,Nottingham Forest FC,2024-02-24T15:00:00Z
+52,Brighton & Hove Albion FC,Everton FC,2024-02-24T15:00:00Z
+53,Crystal Palace FC,Burnley FC,2024-02-24T15:00:00Z
+54,Liverpool FC,Luton Town FC,2024-02-24T15:00:00Z
+55,Manchester United FC,Fulham FC,2024-02-24T15:00:00Z
+56,AFC Bournemouth,Manchester City FC,2024-02-24T17:00:00Z
+57,Arsenal FC,Newcastle United FC,2024-02-24T20:00:00Z
+58,Wolverhampton Wanderers FC,Sheffield United FC,2024-02-25T13:30:00Z
+59,West Ham United FC,Brentford FC,2024-02-26T20:00:00Z
+60,Brentford FC,Chelsea FC,2024-03-02T00:00:00Z
+61,Burnley FC,AFC Bournemouth,2024-03-02T00:00:00Z
+62,Everton FC,West Ham United FC,2024-03-02T00:00:00Z
+63,Fulham FC,Brighton & Hove Albion FC,2024-03-02T00:00:00Z
+64,Luton Town FC,Aston Villa FC,2024-03-02T00:00:00Z
+65,Manchester City FC,Manchester United FC,2024-03-02T00:00:00Z
+66,Newcastle United FC,Wolverhampton Wanderers FC,2024-03-02T00:00:00Z
+67,Nottingham Forest FC,Liverpool FC,2024-03-02T00:00:00Z
+68,Sheffield United FC,Arsenal FC,2024-03-02T00:00:00Z
+69,Tottenham Hotspur FC,Crystal Palace FC,2024-03-02T00:00:00Z
+70,AFC Bournemouth,Sheffield United FC,2024-03-09T00:00:00Z
+71,Arsenal FC,Brentford FC,2024-03-09T00:00:00Z
+72,Aston Villa FC,Tottenham Hotspur FC,2024-03-09T00:00:00Z
+73,Brighton & Hove Albion FC,Nottingham Forest FC,2024-03-09T00:00:00Z
+74,Chelsea FC,Newcastle United FC,2024-03-09T00:00:00Z
+75,Crystal Palace FC,Luton Town FC,2024-03-09T00:00:00Z
+76,Liverpool FC,Manchester City FC,2024-03-09T00:00:00Z
+77,Manchester United FC,Everton FC,2024-03-09T00:00:00Z
+78,West Ham United FC,Burnley FC,2024-03-09T00:00:00Z
+79,Wolverhampton Wanderers FC,Fulham FC,2024-03-09T00:00:00Z
+80,Brighton & Hove Albion FC,Manchester City FC,2024-03-16T00:00:00Z
+81,Burnley FC,Brentford FC,2024-03-16T00:00:00Z
+82,Crystal Palace FC,Newcastle United FC,2024-03-16T00:00:00Z
+83,Everton FC,Liverpool FC,2024-03-16T00:00:00Z
+84,Fulham FC,Tottenham Hotspur FC,2024-03-16T00:00:00Z
+85,Luton Town FC,Nottingham Forest FC,2024-03-16T00:00:00Z
+86,Manchester United FC,Sheffield United FC,2024-03-16T00:00:00Z
+87,West Ham United FC,Aston Villa FC,2024-03-16T00:00:00Z
+88,Wolverhampton Wanderers FC,AFC Bournemouth,2024-03-16T00:00:00Z
+89,Arsenal FC,Chelsea FC,2024-03-16T00:00:00Z
+90,AFC Bournemouth,Everton FC,2024-03-30T00:00:00Z
+91,Aston Villa FC,Wolverhampton Wanderers FC,2024-03-30T00:00:00Z
+92,Brentford FC,Manchester United FC,2024-03-30T00:00:00Z
+93,Chelsea FC,Burnley FC,2024-03-30T00:00:00Z
+94,Liverpool FC,Brighton & Hove Albion FC,2024-03-30T00:00:00Z
+95,Manchester City FC,Arsenal FC,2024-03-30T00:00:00Z
+96,Newcastle United FC,West Ham United FC,2024-03-30T00:00:00Z
+97,Nottingham Forest FC,Crystal Palace FC,2024-03-30T00:00:00Z
+98,Sheffield United FC,Fulham FC,2024-03-30T00:00:00Z
+99,Tottenham Hotspur FC,Luton Town FC,2024-03-30T00:00:00Z
+100,AFC Bournemouth,Crystal Palace FC,2024-04-02T00:00:00Z
+101,Arsenal FC,Luton Town FC,2024-04-02T00:00:00Z
+102,Brentford FC,Brighton & Hove Albion FC,2024-04-02T00:00:00Z
+103,Burnley FC,Wolverhampton Wanderers FC,2024-04-02T00:00:00Z
+104,Nottingham Forest FC,Fulham FC,2024-04-02T00:00:00Z
+105,West Ham United FC,Tottenham Hotspur FC,2024-04-02T00:00:00Z
+106,Chelsea FC,Manchester United FC,2024-04-03T00:00:00Z
+107,Newcastle United FC,Everton FC,2024-04-03T00:00:00Z
+108,Liverpool FC,Sheffield United FC,2024-04-03T00:00:00Z
+109,Manchester City FC,Aston Villa FC,2024-04-03T00:00:00Z
+110,Aston Villa FC,Brentford FC,2024-04-06T00:00:00Z
+111,Brighton & Hove Albion FC,Arsenal FC,2024-04-06T00:00:00Z
+112,Crystal Palace FC,Manchester City FC,2024-04-06T00:00:00Z
+113,Everton FC,Burnley FC,2024-04-06T00:00:00Z
+114,Fulham FC,Newcastle United FC,2024-04-06T00:00:00Z
+115,Luton Town FC,AFC Bournemouth,2024-04-06T00:00:00Z
+116,Manchester United FC,Liverpool FC,2024-04-06T00:00:00Z
+117,Sheffield United FC,Chelsea FC,2024-04-06T00:00:00Z
+118,Tottenham Hotspur FC,Nottingham Forest FC,2024-04-06T00:00:00Z
+119,Wolverhampton Wanderers FC,West Ham United FC,2024-04-06T00:00:00Z
+120,AFC Bournemouth,Manchester United FC,2024-04-13T00:00:00Z
+121,Arsenal FC,Aston Villa FC,2024-04-13T00:00:00Z
+122,Brentford FC,Sheffield United FC,2024-04-13T00:00:00Z
+123,Burnley FC,Brighton & Hove Albion FC,2024-04-13T00:00:00Z
+124,Chelsea FC,Everton FC,2024-04-13T00:00:00Z
+125,Liverpool FC,Crystal Palace FC,2024-04-13T00:00:00Z
+126,Manchester City FC,Luton Town FC,2024-04-13T00:00:00Z
+127,Newcastle United FC,Tottenham Hotspur FC,2024-04-13T00:00:00Z
+128,Nottingham Forest FC,Wolverhampton Wanderers FC,2024-04-13T00:00:00Z
+129,West Ham United FC,Fulham FC,2024-04-13T00:00:00Z
+130,Aston Villa FC,AFC Bournemouth,2024-04-20T00:00:00Z
+131,Brighton & Hove Albion FC,Chelsea FC,2024-04-20T00:00:00Z
+132,Crystal Palace FC,West Ham United FC,2024-04-20T00:00:00Z
+133,Everton FC,Nottingham Forest FC,2024-04-20T00:00:00Z
+134,Fulham FC,Liverpool FC,2024-04-20T00:00:00Z
+135,Luton Town FC,Brentford FC,2024-04-20T00:00:00Z
+136,Manchester United FC,Newcastle United FC,2024-04-20T00:00:00Z
+137,Sheffield United FC,Burnley FC,2024-04-20T00:00:00Z
+138,Tottenham Hotspur FC,Manchester City FC,2024-04-20T00:00:00Z
+139,Wolverhampton Wanderers FC,Arsenal FC,2024-04-20T00:00:00Z
+140,AFC Bournemouth,Brighton & Hove Albion FC,2024-04-27T00:00:00Z
+141,Aston Villa FC,Chelsea FC,2024-04-27T00:00:00Z
+142,Everton FC,Brentford FC,2024-04-27T00:00:00Z
+143,Fulham FC,Crystal Palace FC,2024-04-27T00:00:00Z
+144,Manchester United FC,Burnley FC,2024-04-27T00:00:00Z
+145,Newcastle United FC,Sheffield United FC,2024-04-27T00:00:00Z
+146,Nottingham Forest FC,Manchester City FC,2024-04-27T00:00:00Z
+147,Tottenham Hotspur FC,Arsenal FC,2024-04-27T00:00:00Z
+148,West Ham United FC,Liverpool FC,2024-04-27T00:00:00Z
+149,Wolverhampton Wanderers FC,Luton Town FC,2024-04-27T00:00:00Z
+150,Arsenal FC,AFC Bournemouth,2024-05-04T00:00:00Z
+151,Brentford FC,Fulham FC,2024-05-04T00:00:00Z
+152,Brighton & Hove Albion FC,Aston Villa FC,2024-05-04T00:00:00Z
+153,Burnley FC,Newcastle United FC,2024-05-04T00:00:00Z
+154,Chelsea FC,West Ham United FC,2024-05-04T00:00:00Z
+155,Crystal Palace FC,Manchester United FC,2024-05-04T00:00:00Z
+156,Liverpool FC,Tottenham Hotspur FC,2024-05-04T00:00:00Z
+157,Luton Town FC,Everton FC,2024-05-04T00:00:00Z
+158,Manchester City FC,Wolverhampton Wanderers FC,2024-05-04T00:00:00Z
+159,Sheffield United FC,Nottingham Forest FC,2024-05-04T00:00:00Z
+160,AFC Bournemouth,Brentford FC,2024-05-11T00:00:00Z
+161,Aston Villa FC,Liverpool FC,2024-05-11T00:00:00Z
+162,Everton FC,Sheffield United FC,2024-05-11T00:00:00Z
+163,Fulham FC,Manchester City FC,2024-05-11T00:00:00Z
+164,Manchester United FC,Arsenal FC,2024-05-11T00:00:00Z
+165,Newcastle United FC,Brighton & Hove Albion FC,2024-05-11T00:00:00Z
+166,Nottingham Forest FC,Chelsea FC,2024-05-11T00:00:00Z
+167,Tottenham Hotspur FC,Burnley FC,2024-05-11T00:00:00Z
+168,West Ham United FC,Luton Town FC,2024-05-11T00:00:00Z
+169,Wolverhampton Wanderers FC,Crystal Palace FC,2024-05-11T00:00:00Z
+170,AFC Bournemouth,Luton Town FC,2024-05-18T00:00:00Z
+171,Arsenal FC,Everton FC,2024-05-19T15:00:00Z
+172,Brentford FC,Newcastle United FC,2024-05-19T15:00:00Z
+173,Brighton & Hove Albion FC,Manchester United FC,2024-05-19T15:00:00Z
+174,Burnley FC,Nottingham Forest FC,2024-05-19T15:00:00Z
+175,Chelsea FC,AFC Bournemouth,2024-05-19T15:00:00Z
+176,Crystal Palace FC,Aston Villa FC,2024-05-19T15:00:00Z
+177,Liverpool FC,Wolverhampton Wanderers FC,2024-05-19T15:00:00Z
+178,Luton Town FC,Fulham FC,2024-05-19T15:00:00Z
+179,Manchester City FC,West Ham United FC,2024-05-19T15:00:00Z
+180,Sheffield United FC,Tottenham Hotspur FC,2024-05-19T15:00:00Z
