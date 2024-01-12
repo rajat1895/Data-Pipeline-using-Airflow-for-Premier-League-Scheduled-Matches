@@ -1,27 +1,30 @@
-# Data Pipeline for Premier League Matches using Apache Airflow
+# Data Pipeline for Premier League Matches using Apache Airflow and Amazon Web Services (AWS)
 
 ## Overview
-This Apache Airflow-based project automates the ETL process for Premier League scheduled matches. It's designed to fetch, process, and store match data efficiently and reliably.
+This Apache Airflow-based project automates the ETL process for Premier League scheduled matches. It's designed to run on an AWS EC2 instance and stores the processed data in an Amazon S3 bucket. This solution provides a scalable and efficient approach to handle sports data.
 
 ## Features
 - **Automated Data Extraction**: Leverages a robust API to retrieve match details.
 - **Efficient Data Transformation**: Utilizes Python and Pandas for data processing and transformation.
-- **Seamless Data Loading**: Stores transformed data in a structured and accessible format.
+- **AWS EC2 Execution**: Runs the entire pipeline on an AWS EC2 instance for reliable and scalable processing.
+- **S3 Data Storage**: Stores the processed data in an S3 bucket, ensuring durability and ease of access.
 
 ## Technologies Used
-- **Apache Airflow**: For orchestrating the workflow.
-- **Python**: For scripting the ETL process.
-- **Pandas**: Used in data transformation.
-- **Requests**: For API interactions.
+- Apache Airflow
+- AWS EC2
+- Amazon S3
+- Python
+- Pandas
+- Requests
 
 ## Getting Started
-To get this project up and running, you'll need to install Apache Airflow, set up your Python environment, and configure the necessary APIs.
+To get this project up and running, you'll need to set up Apache Airflow on an AWS EC2 instance and configure an Amazon S3 bucket for data storage.
 
 ### Prerequisites
+- AWS account with access to EC2 and S3
 - Apache Airflow
 - Python 3.x
 - Pandas library
-- Access to football data API
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/your-repo.git`
